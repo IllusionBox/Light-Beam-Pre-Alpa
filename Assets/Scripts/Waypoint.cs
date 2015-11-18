@@ -4,6 +4,7 @@ using System.Collections;
 public class Waypoint : MonoBehaviour {
 
 	public float seconds;
+	public float speed = 1;
 
 	// Use this for initialization
 	void Start () {
