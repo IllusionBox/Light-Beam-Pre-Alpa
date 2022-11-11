@@ -1,4 +1,4 @@
-# Light-Beam-Pee-Alpa
+# Light-Beam-Pre-Alpa
 #Light beam! 
 
 A game under development, folder structure and other relevant details will be posted soon.
